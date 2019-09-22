@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\TwoSum\TwoSum\bin\Debug\TwoSum.exe.config
+C:\Users\usr\source\repos\TwoSum\TwoSum\bin\Debug\TwoSum.exe
+C:\Users\usr\source\repos\TwoSum\TwoSum\bin\Debug\TwoSum.pdb
+C:\Users\usr\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.exe
+C:\Users\usr\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.pdb
